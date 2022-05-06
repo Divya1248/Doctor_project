@@ -1,0 +1,38 @@
+.signin article {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid black;
+  box-shadow: 2px 2px 2px grey;
+  margin-top: 40px;
+}
+.signin {
+  width: 500px;
+  height: 800px;
+  margin: 0 auto;
+}
+.signin h1 {
+  text-align: center;
+  color: #03989e;
+}
+
+.signin article div {
+  padding: 10px;
+}
+
+.signin article div input {
+  margin-left: 10px;
+  padding: 10px;
+}
+
+.btn span {
+  padding: 10px 10px;
+}
+
+.btn span button {
+  padding: 15px 20px;
+  margin-left: 20px;
+  background-color: #03989e;
+  border-radius: 20px;
+  border: none;
+}
